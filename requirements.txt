@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+transformers
+torch
+python-dotenv
+accelerate
+sentencepiece
