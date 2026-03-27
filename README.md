@@ -136,12 +136,12 @@ python -m streamlit run app/streamlit_app.py
 Pull the image:
 
 ```bash
-docker pull mariorossi/customer-support-chatbot:latest
+docker pull cusiandrea/customer-support-chatbot:latest
 ```
 Run the app:
 
 ```bash
-docker run -p 8501:8501 mariorossi/customer-support-chatbot
+docker run -p 8501:8501 cusiandrea/customer-support-chatbot
 ```
 
 ------------------------------------------------------------------------
