@@ -24,6 +24,8 @@ The chatbot:
 -   💬 Provides an interactive UI via **Streamlit**
 -   🐳 Can be containerized with **Docker**
 
+The application runs fully locally, including the LLM, which increases the container size but ensures full offline capability and zero API cost.
+
 ------------------------------------------------------------------------
 
 ## 🎯 Key Features
